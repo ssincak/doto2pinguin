@@ -2,6 +2,8 @@
 
 Dota 2 ping test tool written in Python.
 
+See my blog post for more info: http://stefan-s.net/?p=176
+
 ### Prerequisities ###
 
 * Python 2.7
